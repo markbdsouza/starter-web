@@ -12,3 +12,5 @@ why?
 THis is really the end
 
 ## copyright
+
+stashing fix
